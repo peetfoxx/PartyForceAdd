@@ -14,13 +14,13 @@ it does the job and doesn't seem to cause any issues.
 
 # Installation:
 ## Bukkit/Paper:
-1. Download PartyForceAdd for Bukkit
+1. Download [PartyForceAdd for Bukkit](out/artifacts/PartyForceAdd-Bukkit.jar)
 2. Place the .jar in your /plugins/ directory
 3. Restart the server
 4. Try executing the command /partyadd ...
 
 ## Bungeecord:
-1. Download PartyForceAdd for Bungee
+1. Download [PartyForceAdd for Bungee](out/artifacts/party-force-add.jar)
 2. Place the .jar in your /plugins/ directory ONLY on the Proxy
 3. Restart the server
 4. Try executing the command /partyadd ...
