@@ -2,7 +2,7 @@ Simple plugin primarily for Bungeecord which hooks into the plugin [Parties](htt
 
 # Usage:
 ```
-- /partyadd <player> <party> - Forces the player to join specified party
+/partyadd <player> <party> - Forces the player to join specified party
 ```
 On Bukkit/Paper servers, this action can be performed by using /sudo plugins,
 however using Parties on a proxy does not support executing Party commands this
