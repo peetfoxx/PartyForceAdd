@@ -1,4 +1,4 @@
-Simple plugin primarily for Bungeecord which hooks into the plugin Parties by AlessioDP
+Simple plugin primarily for Bungeecord which hooks into the plugin [Parties](https://www.spigotmc.org/resources/parties-an-advanced-parties-manager.3709/) by AlessioDP
 
 # Usage:
 ```
