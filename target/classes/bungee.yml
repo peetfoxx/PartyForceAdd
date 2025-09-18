@@ -1,0 +1,5 @@
+name: PartyForceAddBungee
+version: '1.0-SNAPSHOT'
+main: sk.hypercube.partyForceAdd.PartyForceAdd
+author: peetfoxx
+depends: [Parties]
